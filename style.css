@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Erica+One&display=swap');
+
+body {
+    background-image: linear-gradient(rgb(252, 172, 111), rgb(177, 251, 92), rgb(133, 251, 255));
+    font-size: 20px;
+    font-family: 'Erica One', cursive;
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+footer {
+    font-size: 14px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: block;
+    width: 100%;
+    bottom: 0vh;
+    left: 0;
+    text-align: center;
+    padding: 1px;
+    background: transparent;
+}
+
+h1{
+ border: solid rgb(250, 139, 102);
+}
